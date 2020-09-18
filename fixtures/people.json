@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Pazu",
+        "films": [
+            "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        ]
+    },
+    {
+        "name": "Lusheeta Toel Ul Laputa",
+        "films": [
+            "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        ]
+    },
+    {
+        "name": "Dola",
+        "films": [
+            "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        ]
+    },
+    {
+        "name": "Romska Palo Ul Laputa",
+        "films": [
+            "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        ]
+    },
+    {
+        "name": "Uncle Pom",
+        "films": [
+            "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        ]
+    },
+    {
+        "name": "General Muoro",
+        "films": [
+            "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        ]
+    },
+    {
+        "name": "Duffi",
+        "films": [
+            "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        ]
+    },
+    {
+        "name": "Louis",
+        "films": [
+            "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        ]
+    },
+    {
+        "name": "Charles",
+        "films": [
+            "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        ]
+    },
+    {
+        "name": "Henri",
+        "films": [
+            "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        ]
+    },
+    {
+        "name": "Motro",
+        "films": [
+            "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        ]
+    },
+    {
+        "name": "Okami",
+        "films": [
+            "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        ]
+    },
+    {
+        "name": "Ashitaka",
+        "films": [
+            "https://ghibliapi.herokuapp.com/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        ]
+    },
+    {
+        "name": "San",
+        "films": [
+            "https://ghibliapi.herokuapp.com/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        ]
+    },
+    {
+        "name": "Eboshi",
+        "films": [
+            "https://ghibliapi.herokuapp.com/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        ]
+    }
+]
